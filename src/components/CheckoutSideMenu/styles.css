@@ -1,0 +1,11 @@
+.checkout-side-menu {
+    width: 360px;
+    height: calc(100vh - 68px);
+    top: 68px;
+}
+.scrollable-cards {
+    overflow: scroll;
+    scrollbar-width: auto;
+    scrollbar-color: #141414 #ffffff;
+    border: 3px solid #000000;
+}
